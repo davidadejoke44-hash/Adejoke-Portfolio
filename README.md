@@ -32,14 +32,13 @@ Interactive Power BI dashboard developed for the ZoomCharts Data Visualization C
  
 ### Logistics Performance Analytics Dashboard (Capstone Project)
 
-A comprehensive logistics analytics solution developed as a capstone project. The report consists of four interactive dashboards designed to monitor logistics operations, delivery performance, operational efficiency, and business KPIs.
+A comprehensive logistics analytics solution developed as a capstone project. The report consists of three interactive dashboards designed to monitor logistics operations, delivery performance, operational efficiency, and business KPIs.
 
 #### Dashboard Pages
 - Executive Overview
-- Delivery Performance Analysis
-- Operational Efficiency Analysis
-- Regional Performance Analysis
-
+- Fleet and fuel analysis
+-  Delivery Performance Analysis
+  
 #### Tools Used
 - Power BI
 - Power Query
