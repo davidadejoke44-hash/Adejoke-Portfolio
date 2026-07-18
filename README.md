@@ -43,7 +43,42 @@ A comprehensive logistics analytics solution developed as a capstone project. Th
 - Power BI
 - Power Query
 - DAX
-  
+
+  Sales Analysis Dashboard (Excel)
+
+Project Overview
+Developed an interactive Excel dashboard to analyze sales performance, profitability, customer trends, and operational metrics. The project involved calculating KPIs, building pivot tables, creating visualizations, and designing an executive dashboard with interactive slicers.
+
+Tools Used
+
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Conditional Formatting
+
+Key KPIs
+
+Revenue
+COGS
+Profit
+Customer Count
+
+Analysis Performed
+
+Most profitable product by profit
+Top-performing sales representative by revenue
+City-level COGS analysis
+Monthly customer trends
+Identification of the lowest-performing month
+
+Skills Demonstrated
+
+Data Analysis
+Dashboard Design
+KPI Reporting
+Business Intelligence
+Data Visualization
 
 #### Skills Demonstrated
 - Data Cleaning
