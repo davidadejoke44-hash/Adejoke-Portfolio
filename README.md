@@ -29,6 +29,29 @@ This repository contains a collection of projects developed using Microsoft Exce
 ### ZoomCharts Oil & Gas Dashboard
 Interactive Power BI dashboard developed for the ZoomCharts Data Visualization Challenge. The project focuses on analyzing oil and gas industry data through advanced visualizations, KPI tracking, and data storytelling techniques.
 
+ 
+### Logistics Performance Analytics Dashboard (Capstone Project)
+
+This capstone project focused on analyzing logistics and supply chain operations to uncover insights into delivery performance, operational efficiency, and key business metrics. The project involved data cleaning, transformation, analysis, and visualization to support data-driven decision-making.
+
+**Tools Used:** Power BI, Power Query, DAX, Excel
+
+**Skills Demonstrated:**
+- Data Cleaning and Transformation
+- Data Modeling
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Data Storytelling
+
+**Key Focus Areas:**
+- Delivery Performance Analysis
+- Logistics Operations Monitoring
+- KPI Tracking
+- Trend Analysis
+- Operational Efficiency
+
 **Skills:** Power BI, DAX, Power Query, Data Visualization, Dashboard Design, Business Intelligence.
 This portfolio includes dashboards and reports covering business performance monitoring, trend analysis, KPI tracking, and decision support.
 
