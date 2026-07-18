@@ -24,7 +24,12 @@ This repository contains a collection of projects developed using Microsoft Exce
 
 
 ## Projects
+## Featured Projects
 
+### ZoomCharts Oil & Gas Dashboard
+Interactive Power BI dashboard developed for the ZoomCharts Data Visualization Challenge. The project focuses on analyzing oil and gas industry data through advanced visualizations, KPI tracking, and data storytelling techniques.
+
+**Skills:** Power BI, DAX, Power Query, Data Visualization, Dashboard Design, Business Intelligence.
 This portfolio includes dashboards and reports covering business performance monitoring, trend analysis, KPI tracking, and decision support.
 
 ## Contact
